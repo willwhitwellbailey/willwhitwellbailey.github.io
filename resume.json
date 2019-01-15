@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Will Whitwell Bailey",
+    "address": "815 NE 94th St, Seattle, WA 98115",
+    "phone": "206.227.9887",
+    "email": "wwwhitwell@gmail.com"
+  },
+
+  "technologies": [
+    {
+      "description": "JavaScript",
+      "list": [
+        "Node",
+        "Express",
+        "Nightwatch coupled with Browserstack, Postman, Mocha",
+        "Ember",
+        "React and ReactNative"
+      ]
+    },
+    {
+      "description": "Databases",
+      "list": [
+        "SQL",
+        "DynamoDB",
+        "MongoDB"
+      ]
+    },
+    {
+      "description": "Operational Services and Technologies",
+      "list": [
+        "AWS",
+        "Jenkins",
+        "Docker",
+        "Terraform",
+        "TeamCity"
+      ]
+    },
+    {
+      "description": "Past use",
+      "list": [
+        "Python",
+        "C#",
+        "Java"
+      ]
+    }
+  ],
+
+  "career_history": [
+    {
+      "company": "Avalara, Inc",
+      "position": "Lead Software Development Engineer in Test",
+      "begin": 2012,
+      "end": 2018,
+      "notes": [
+        "Certified ScrumMaster - lead two teams through bi-weekly sprints while promoting self-organization and cooperation",
+        "Design and develop multiple automation frameworks on top of Selenium and public SDKs for various projects in JavaScript, C#, and Java",
+        "Final Deployment Package acceptance during manual deploy stages while guiding process towards CI/CD",
+        "Mentored fresh faces and promoted quality as a culture"
+      ]
+    },
+    {
+      "company": "Global Market Insite, Inc",
+      "position": "QA Engineer II",
+      "begin": 2009,
+      "end": 2012,
+      "notes": [
+        "Oversee a collection of automation projects",
+        "Document test cases to be distrubuted for manual testing",
+        "Supervise deployment to environments of tested release packages",
+        "Produce the best new features for an ever-increasing profitability in an agile workflow"
+      ]
+    },
+    {
+      "company": "Scout.com",
+      "position": "Software Development Engineer in Test",
+      "begin": 2006,
+      "end": 2009,
+      "notes": [
+        "Black- and white-box testing based on general understanding of ideal user interfaces",
+        "Basic documentation of test plans and cases as well as build verification",
+        "Key role in testing and releasing a then-new Web 2.0 application geared for peak use of 1 million users",
+        "Started automation project for new and old products"
+      ]
+    }
+  ],
+
+  "education": {
+    "degrees": [
+      "BS Computer Science",
+      "BS Mathematics w. Applied Math Specialization"
+    ],
+    "university": "Seattle University"
+  },
+
+  "life_achievements": [
+    "Professional Ultimate Player, AUDL (2014)",
+    "Bronze medalist, World's Ultimate Championship (2008)",
+    "Coach of Seattle University Throbot Ultimate Club since (2005-present)",
+    "Urban gardener, food lover, novice woodworker, husband, father"
+  ],
+
+  "references": {
+    "description": "Further information upon request",
+    "persons": [
+      "Jason Corns",
+      "Tony Cowan",
+      "Scott Barker",
+      "Sahoko Motley",
+      "Shawn Motley"
+    ]
+  }
+}
