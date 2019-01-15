@@ -1,8 +1,21 @@
 <html>
   <head>
     <link rel="stylesheet" href="index.css">
+    <script>
+var easyReadBackgroundColor = "rgb(24, 24, 24)";
+var easyReadColor = "rgb(226, 226, 226)";
+function toggleColors() {
+  var check = document.body.style.backgroundColor === easyReadBackgroundColor;
+  document.body.style.backgroundColor = check ? 'white' : easyReadBackgroundColor;
+  document.body.style.color = check ? 'black' : easyReadColor;
+  document.body.getElementsByTagName('button')[0].innerText = `${check ? 'Reading' : 'Print'} colors`;
+}
+    </script>
   </head>
   <body>
+    <button type="button" onclick="toggleColors();">
+      Print colors
+    </button>
     <section>
       <h1>basics</h1>
       <p>name: Will Whitwell Bailey</p>
