@@ -5,7 +5,7 @@
 var easyReadBackgroundColor = "rgb(24, 24, 24)";
 var easyReadColor = "rgb(226, 226, 226)";
 function toggleColors() {
-  var check = document.body.style.backgroundColor === easyReadBackgroundColor;
+  var check = (document.body.style.backgroundColor || easyReadBackgroundColor) === easyReadBackgroundColor; // null check handles onload case
   document.body.style.backgroundColor = check ? 'white' : easyReadBackgroundColor;
   document.body.style.color = check ? 'black' : easyReadColor;
   document.body.getElementsByTagName('button')[0].innerText = `${check ? 'Reading' : 'Print'} colors`;
@@ -60,7 +60,7 @@ function toggleColors() {
         <h2>Global Market Insite, Inc - <i>QA Engineer II</i> (2009-2012)</h2>
         <ul>
           <li>Oversaw a collection of automation projects</li>
-          <li>Documented test cases to be distrubuted for manual testing</li>
+          <li>Documented test cases to be distributed for manual testing</li>
           <li>Supervised deployment to environments</li>
           <li>Produced new features for an ever-increasing profitability in an agile workflow</li>
         </ul>
