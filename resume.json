@@ -47,6 +47,17 @@
 
   "career_history": [
     {
+      "company": "Luum by Health Equity",
+      "position": "Integrations Engineer",
+      "begin": 2019,
+      "end": "present",
+      "notes": [
+        "Onboarded NN Clients with multiple touch points including SFTP, SSO, and a myriad of Luum Features",
+        "Created collections of tools to assist in analysis of Client integrations, issues, and analysis",
+        "Contributed to various Luum Features as a coder, tester, consult, and reviewer"
+      ]
+    },
+    {
       "company": "Avalara, Inc",
       "position": "Lead Software Development Engineer in Test",
       "begin": 2012,
