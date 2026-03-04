@@ -1,6 +1,7 @@
 {
   "basics": {
     "name": "Will Whitwell Bailey",
+    "job": "Software Engineer focusing on solving problems with efficient and elegant solutions while utilizing and creating appropriate tools.",
     "address": "815 NE 94th St, Seattle, WA 98115",
     "phone": "206.227.9887",
     "email": "wwwhitwell@gmail.com"
@@ -28,6 +29,7 @@
     {
       "description": "Operational Services and Technologies",
       "list": [
+        "MS Azure",
         "AWS",
         "Jenkins",
         "Docker",
@@ -77,8 +79,7 @@
       "notes": [
         "Oversee a collection of automation projects",
         "Document test cases to be distrubuted for manual testing",
-        "Supervise deployment to environments of tested release packages",
-        "Produce the best new features for an ever-increasing profitability in an agile workflow"
+        "Supervise deployment to environments of tested release packages"
       ]
     },
     {
@@ -103,11 +104,10 @@
     "university": "Seattle University"
   },
 
-  "life_achievements": [
-    "Professional Ultimate Player, AUDL (2014)",
-    "Bronze medalist, World's Ultimate Championship (2008)",
-    "Coach of Seattle University Throbot Ultimate Club since (2005-present)",
-    "Urban gardener, food lover, novice woodworker, husband, father"
+  "life_balance": [
+    "Ultimate Player and Coach",
+    "Woodworker",
+    "Urban gardener"
   ],
 
   "references": {
