@@ -53,7 +53,7 @@ function createSpecificSection(section, indent) {
     case "education":
       return wrap("h3", indent, `${content.degrees.join(' and ')} - ${content.university}`);
 
-    case "life_achievements":
+    case "life_balance":
       return createList("ul", indent, content);
 
     case "references":
